@@ -7,7 +7,7 @@
  *
  * @author p1200476
  */
-public class NewJFrame extends jaswingvax..JFrame {
+public class NewJFrame extends javax.swing.JFrame {
 
     /**
      * Creates new form NewJFrame
